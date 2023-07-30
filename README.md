@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm UJJWAL SINHA</h1>
+<h1 align="center">UJJWAL SINHA</h1>
 <h3 align="center">A Full-Stack WebDeveloper || ML Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ujjwaleee26/expenseTracker](https://github.com/ujjwaleee26/expenseTracker)
