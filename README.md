@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **sinhaujjwal04@gmail.com**
 
-- 📄 Know about my experiences [Ujjwal_Resume.pdf](Ujjwal_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
