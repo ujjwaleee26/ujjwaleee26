@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ujjwal sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/_ujjwal__sinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwal__sinha_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ujjwal.sinha.cd.eee22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ujjwal.sinha.cd.eee22" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/ujjwal25mgfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal25mgfan" height="30" width="40" /></a>
 </p>
 
