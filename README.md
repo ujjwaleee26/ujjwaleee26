@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwaleee26&theme=onedark" alt="ujjwaleee26" /></a> </p>
 
-- 🌱 I’m currently learning **Open Source and Rust**
+- 🌱 I’m currently learning **Open Source and SpringBoot+AWS Cloud**
 
 
 
