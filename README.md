@@ -89,6 +89,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ujjwaleee26&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ujjwaleee26&show_icons=true&count_private=true&hide_border=true" align="center" />
+<br/>
+  <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaleee26&" alt="ujjwaleee26" /></p></div>  
+
 
 <br/> 
