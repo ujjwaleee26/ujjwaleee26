@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on SpringCloud MicroServices   
   
 
-- 🌱 I’m currently learning GraphQL and AWS   
+- 🌱 I’m currently learning Spring Cloud and AWS   
   
 
-- 🌱In Juggernaut of Java  
+- 🌱In Juggernaut of Java 
   
 
 <br/>  
