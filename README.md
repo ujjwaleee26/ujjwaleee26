@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on SpringCloud MicroServices   
   
 
-- 🌱 I’m currently learning Spring Cloud and AWS   
+- 🌱 I’m currently learning DSA on Python  
   
 
 - 🌱In Juggernaut of Java 
