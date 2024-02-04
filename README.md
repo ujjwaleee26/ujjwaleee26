@@ -3,7 +3,7 @@
 ### <div align="center">Hii , I'm Ujjwal Sinha</div>  
   
 
-- 🔭 I’m currently working on Java Postgres Services   
+- 🔭 I’m currently working on Spring GraphQL  
   
   
 - 🌱In Juggernaut of Java 
